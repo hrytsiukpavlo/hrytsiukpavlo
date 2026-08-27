@@ -12,7 +12,7 @@ I learn one topic at a time until it turns into something real: a PR, a demo, or
 
 📫 How to reach me:
 
-* [LinkedIn]([https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/hrytsiukpavlo/))
+* [LinkedIn](https://www.linkedin.com/in/hrytsiukpavlo/)
 * [hrytsiuk.pavlo1@gmail.com
 ](mailto:hrytsiuk.pavlo1@gmail.com)
 
