@@ -6,7 +6,7 @@ I care most about the decisions behind the code: what the alternatives were, wha
 
 At TVH I work across several React and TypeScript apps in one Nx monorepo. Much of my work is **architectural**.
 
-The thing I am most invested in right now is **AI in real workflows**. I run agents in parallel across the whole loop, from planning and cross repo impact analysis to implementation and tests, and I am building a **harness around our codebase**, the rules, context, and scaffolding that let those agents work on it reliably instead of guessing. I also built an internal code review tool by distilling roughly **1,700 review comments** from our strongest reviewers into a style guide a tool can apply. For me AI is **a working instrument, not a slide for management**.
+The thing I am most invested in right now is **AI in real workflows**. I run agents in parallel across the whole loop, from planning and cross repo impact analysis to implementation and tests, and I am building a **harness around our codebase**, the rules, context, and scaffolding that let those agents work on it reliably instead of guessing. I also built an internal code review tool by distilling roughly **1,700 review comments** from our strongest reviewers into a style guide a tool can apply. For me AI is **a working instrument, not a buzzword**.
 
 I learn one topic at a time until it turns into **something real**: a PR, a demo, or a talk.
 
