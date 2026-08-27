@@ -13,7 +13,7 @@ I learn one topic at a time until it turns into **something real**: a PR, a demo
 ### 📫 How to reach me
 
 * [LinkedIn](https://www.linkedin.com/in/hrytsiukpavlo/)
-* [hrytsiuk.pavlo1@gmail.com](mailto:hrytsiuk.pavlo1@gmail.com)
+* [hrytsiuk.pavlo@protonmail.com](mailto:hrytsiuk.pavlo@protonmail.com)
 
 ### Skills
 
