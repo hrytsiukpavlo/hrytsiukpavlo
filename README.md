@@ -1,4 +1,4 @@
-# Hey, I'm Pavlo 👋
+# Hey, I'm Pavló 👋
 
 **Senior Frontend Engineer | React, TypeScript, Nx monorepos | Frontend architecture & Web performance**
 
