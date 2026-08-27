@@ -2,8 +2,6 @@
 
 **Senior Frontend Engineer | React, TypeScript, Nx monorepos | Frontend architecture & Web performance**
 
----
-
 I care most about the decisions behind the code: what the alternatives were, what the trade offs cost, and why we chose what we chose. I like problems that are **measured, not guessed**.
 
 At TVH I work across several React and TypeScript apps in one Nx monorepo. Much of my work is **architectural**.
@@ -12,14 +10,10 @@ The thing I am most invested in right now is **AI in real workflows**. I run age
 
 I learn one topic at a time until it turns into **something real**: a PR, a demo, or a talk.
 
----
-
 ### 📫 How to reach me
 
 * [LinkedIn](https://www.linkedin.com/in/hrytsiukpavlo/)
 * [hrytsiuk.pavlo1@gmail.com](mailto:hrytsiuk.pavlo1@gmail.com)
-
----
 
 ### Skills
 
@@ -32,8 +26,6 @@ I learn one topic at a time until it turns into **something real**: a PR, a demo
 * **CI/CD:** GitLab CI, Jenkins, SBOM dependency scanning
 * **Version Control:** Git
 * **Focus areas:** Frontend architecture, Web performance, Testing strategy, Code review
-
----
 
 ### Additional info
 
